@@ -9,7 +9,7 @@ I like to wear my KMC-45 on my ski jacket and put my radio in my pocket, which m
 ## Parts List
 
 * 1 kΩ mini potentiometer from a [kit like this](https://www.amazon.com/dp/B071ZX42VV)
-* 6mm shaft [knob](https://www.amazon.com/dp/B07WNLX4H8)
+* 6 mm shaft [knob](https://www.amazon.com/dp/B07WNLX4H8)
 * [Epoxy](https://www.amazon.com/J-B-Weld-8265S-Cold-Weld-Reinforced/dp/B0006O1ICE?th=1)
 * Small wire, solder, head shrink tubing
 
@@ -23,17 +23,17 @@ Unscrew these four screws.
 
 <img src="IMG_9121.jpeg" width="400">
 
-There are a couple of gaskets that help keep the water out of the radio. Pay attention to where everything goes. You'll need to get all of the electronics out of the way.
+There are a couple of gaskets that help keep the water out of the microphone. Pay attention to where everything goes.
 
 ### Drill a hole
 
-The hole diameter is 9/32". This is the trickiest part, because there's very little room for this potentiomter in the top of the mic body. Center the hole between the two screw bosses and slightly off center front-to-back...closer to the front of the mic body by maybe 1/16". Drill from the outside starting small and going up in 1/32" increments to create a clean, smooth hold in the plastic. The KMC-45 is made of durable plastic, and drilling in increments work very well to keep the hole clean.
+You'll need to get all of the electronics out of the way before you drill. The hole diameter is 9/32". This is the trickiest part, because there's very little room for this potentiomter in the top of the mic body. Center the hole between the two screw bosses and slightly off center front-to-back...closer to the front of the mic body by maybe 1/16". Drill from the outside starting small and going up in 1/32" increments to create a clean, smooth hole in the plastic. The KMC-45 is made of durable plastic, and drilling in increments work very well to keep the hole clean.
 
 <img src="IMG_9114a.jpeg" width="400">
 
 ### Remove part of the speaker retainer plastic.
 
-This step is necessary because the pot barely fits into place. There's plenty of speaker retainer left in the mic body, so this piece can be sacrified. I use precise wire cutters to make incisions in the piece to remove and then needle nose pliers to pull the plastic out.
+This step is necessary because the pot barely fits into place. Even after you remove this material, there's plenty of speaker retainer remaining in the mic body. So this piece can be sacrified. I used precision wire cutters to make incisions in the piece and then needle nose pliers to pull the plastic out.
 
 <img src="IMG_9114.jpeg" width="400">
 
@@ -73,9 +73,9 @@ You may or may not want a knob. The potentiometer itself looks fine without a kn
 
 <img src="IMG_9120.jpeg" width="400">
 
-## Electrical Consdierations
+## Electrical Considerations
 
-A 1 kΩ potentiometer is probably too big of a resistance value, but I had trouble finding a smaller one, e.g. a 200 Ω version, that was small enough. I also tried putting (approx) 100 Ω, 200 Ω, and 300 Ω resisters in parallel to reduce the overall range of the potentiometer. This definitely helped improve the useful range of the pot, but parallel resistors product a non-linear resistance curve when used with a linear potentiometer, and I didn't really like the effect. The other factor is that an external earpiece with the microphone is very loud, and I wanted the extra resistance of the 1 kΩ pot at full range to reduce that volumne when using an ear pieace. So I stuck with just the 1 kΩ pot.
+A 1 kΩ potentiometer is probably too big of a resistance value at full range, but I had trouble finding a smaller one, e.g. a 200 Ω version, that was physically small enough to fit in the mic housing. I also tried putting (approx) 100 Ω, 200 Ω, and 300 Ω resisters in parallel to reduce the overall range of the potentiometer. This definitely helped improve the useful range of the pot, but parallel resistors produce a non-linear resistance curve when used with a linear potentiometer, as you can see from the chart below. I didn't really like the effect this had on the volume range of the speaker. The other factor is that an external earpiece with the microphone is very loud, and I wanted the extra resistance of the 1 kΩ pot at full range to reduce that volume when using an ear pieace. So I stuck with just the 1 kΩ pot.
 
 <img src="PotValues.png">
 
