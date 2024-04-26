@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I like to wear my KMC-45 on my ski jacket and put my radio in my pocket, which means I can't reach the volume knob on the radio easily. I couldn't find a high quality Kenwood-pinout radio with a volume knob on it, so I decided to mod mine. Here's the final result.
+I like to wear my KMC-45 on my ski jacket and put my radio in my pocket, which means I can't reach the volume knob on the radio easily. I couldn't find a high quality Kenwood-pinout remote mic with a volume knob on it, so I decided to mod mine. Here's the final result.
 
 <img src="IMG_9120.jpeg" width="400">
 
@@ -47,7 +47,7 @@ Solder and heat shrink the pigtails.
 
 ### Insert the pot into the mic body
 
-First bend the contacts up against the potentiometer body. Then bend the two meter mounting tabs over top of the wires. The pot won't fit if you don't do this.
+First bend the contacts up against the potentiometer body. Then bend the two potientiometer mounting tabs over top of the wires. The pot won't fit if you don't do this.
 
 <img src="IMG_9113.jpeg" width="400">
 
