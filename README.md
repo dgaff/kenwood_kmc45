@@ -1,5 +1,7 @@
 # Kenwood KMC-45 Microphone Volume Knob
 
+<a href="https://www.buymeacoffee.com/douggaff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Introduction
 
 I like to wear my KMC-45 on my ski jacket and put my radio in my pocket, which means I can't reach the volume knob on the radio easily. I couldn't find a high quality Kenwood-pinout remote mic with a volume knob on it, so I decided to mod mine. Here's the final result.
